@@ -1,0 +1,83 @@
+12 Must-Know GenAI Terms for Everyone in Tech
+
+Here's a simple breakdown of the essential terms you need to understand today's generative AI landscape.
+
+Foundation Models
+
+𝗟𝗟𝗠 (𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹) 
+These are the massive AI systems trained on enormous text datasets that power tools like ChatGPT and Claude. They understand and generate human-like text, serving as the foundation for modern AI conversations and content creation.
+
+𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿𝘀 
+The revolutionary architecture behind modern AI systems. Transformers process text in a way that captures relationships between words across long distances, enabling breakthrough capabilities in language understanding.
+
+Input & Processing Concepts
+
+𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 
+The art of crafting effective instructions for AI systems. Good prompt engineering combines clear instructions, relevant context, and helpful constraints to get the best possible outputs from AI models.
+
+𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗪𝗶𝗻𝗱𝗼𝘄 
+How much text an AI can "remember" during a conversation. Larger context windows (measured in tokens) allow AI to reference more information when generating responses.
+
+𝗧𝗼𝗸𝗲𝗻𝘀 
+The basic units AI models use to process text. These can be words, parts of words, or characters. When you use AI systems, your text is broken into these pieces for processing.
+
+Model Enhancement Techniques
+
+𝗙𝗶𝗻𝗲-𝘁𝘂𝗻𝗶𝗻𝗴 
+Customizing general AI models for specific tasks by training them on specialized datasets. This makes them perform better for particular applications or industries.
+
+𝗥𝗔𝗚 (𝗥𝗲𝘁𝗿𝗶𝗲𝘃𝗮𝗹 𝗔𝘂𝗴𝗺𝗲𝗻𝘁𝗲𝗱 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻) 
+Combining AI text generation with the ability to look up information from external sources. This helps models provide more accurate, up-to-date responses.
+
+𝗭𝗲𝗿𝗼-𝘀𝗵𝗼𝘁 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 
+An AI's ability to perform tasks it wasn't specifically trained for by applying its general knowledge. This lets models handle new situations they haven't explicitly seen before.
+
+Technical Parameters & Challenges
+
+𝗘𝗺𝗯𝗲𝗱𝗱𝗶𝗻𝗴𝘀 
+The way AI represents words, phrases, or concepts as numbers in multidimensional space. This mathematical representation enables AI to understand meaning and find relationships between ideas.
+
+𝗧𝗲𝗺𝗽𝗲𝗿𝗮𝘁𝘂𝗿𝗲 
+A setting that controls how random or creative AI outputs will be. Lower temperature means more predictable responses; higher temperature produces more varied and creative outputs.
+
+𝗖𝗵𝗮𝗶𝗻-𝗼𝗳-𝗧𝗵𝗼𝘂𝗴𝗵𝘁 
+A technique that encourages AI to show its work by breaking down complex problems into step-by-step reasoning. This improves accuracy and makes AI decision-making more transparent.
+
+𝗛𝗮𝗹𝗹𝘂𝗰𝗶𝗻𝗮𝘁𝗶𝗼𝗻 
+When AI confidently generates information that sounds plausible but is factually incorrect. Managing hallucinations remains one of the biggest challenges in deploying reliable AI systems.
+
+Understanding these key terms will help you navigate AI discussions!
+
+
+Not all AI agents are created equal — and the framework you choose shapes your system's intelligence, adaptability, and real-world value.
+
+As we transition from monolithic LLM apps to 𝗺𝘂𝗹𝘁𝗶-𝗮𝗴𝗲𝗻𝘁 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, developers and organizations are seeking frameworks that can support 𝘀𝘁𝗮𝘁𝗲𝗳𝘂𝗹 𝗿𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴, 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝘃𝗲 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻-𝗺𝗮𝗸𝗶𝗻𝗴, and 𝗮𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝘁𝗮𝘀𝗸 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻.
+
+I created this 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻 to help you navigate the rapidly growing ecosystem. 
+
+It outlines the 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝘀, 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀, 𝗮𝗻𝗱 𝗶𝗱𝗲𝗮𝗹 𝘂𝘀𝗲 𝗰𝗮𝘀𝗲𝘀 of the leading platforms — including LangChain, LangGraph, AutoGen, Semantic Kernel, CrewAI, and more.
+
+Here’s what stood out during my analysis:
+
+↳ 𝗟𝗮𝗻𝗴𝗚𝗿𝗮𝗽𝗵 is emerging as the go-to for 𝘀𝘁𝗮𝘁𝗲𝗳𝘂𝗹, 𝗺𝘂𝗹𝘁𝗶-𝗮𝗴𝗲𝗻𝘁 𝗼𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 — perfect for self-improving, traceable AI pipelines. 
+
+↳ 𝗖𝗿𝗲𝘄𝗔𝗜 stands out for 𝘁𝗲𝗮𝗺-𝗯𝗮𝘀𝗲𝗱 𝗮𝗴𝗲𝗻𝘁 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻, useful in project management, healthcare, and creative strategy. 
+
+↳ 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗞𝗲𝗿𝗻𝗲𝗹 quietly brings 𝗲𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲-𝗴𝗿𝗮𝗱𝗲 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 to the agent conversation — a key need for regulated industries.
+ 
+↳ 𝗔𝘂𝘁𝗼𝗚𝗲𝗻 simplifies the build-out of 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗴𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻-𝗺𝗮𝗸𝗲𝗿𝘀 through robust context handling and custom roles. 
+
+↳ 𝗦𝗺𝗼𝗹𝗔𝗴𝗲𝗻𝘁𝘀 is refreshingly light — ideal for 𝗿𝗮𝗽𝗶𝗱 𝗽𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗶𝗻𝗴 𝗮𝗻𝗱 𝘀𝗺𝗮𝗹𝗹-𝗳𝗼𝗼𝘁𝗽𝗿𝗶𝗻𝘁 𝗱𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁𝘀. 
+
+
+↳ 𝗔𝘂𝘁𝗼𝗚𝗣𝗧 continues to shine as a sandbox for 𝗴𝗼𝗮𝗹-𝗱𝗿𝗶𝘃𝗲𝗻 𝗮𝘂𝘁𝗼𝗻𝗼𝗺𝘆 and open experimentation.
+
+𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗶𝘀𝗻’𝘁 𝗮𝗯𝗼𝘂𝘁 𝗵𝘆𝗽𝗲 — 𝗶𝘁’𝘀 𝗮𝗯𝗼𝘂𝘁 𝗮𝗹𝗶𝗴𝗻𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝘆𝗼𝘂𝗿 𝗴𝗼𝗮𝗹𝘀:
+
+- Are you building enterprise software with strict compliance needs? 
+- Do you need agents to collaborate like cross-functional teams? 
+- Are you optimizing for memory, modularity, or speed to market?
+
+This visual guide is built to help you and your team 𝗰𝗵𝗼𝗼𝘀𝗲 𝘄𝗶𝘁𝗵 𝗰𝗹𝗮𝗿𝗶𝘁𝘆.
+
+ Curious what you're building — and which framework you're betting on?
